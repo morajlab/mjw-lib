@@ -1,13 +1,8 @@
 {
   "name": "mjw-lib",
   "version": "0.0.1-alpha",
-  "description": "Moraj Lab workspace manager library",
+  "description": "MJW library",
   "private": true,
-  "scripts": {
-    "preinstall": "npm config set '@morajlab:registry' https://npm.pkg.github.com",
-    "test": "mjw test",
-    "prepare": "mjw hook --install"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/morajlab/mjw-lib.git"

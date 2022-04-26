@@ -1,0 +1,6 @@
+{
+  "root": "packages/mjw/packages/lib",
+  "sourceRoot": "packages/mjw/packages/lib/src",
+  "projectType": "library",
+  "tags": []
+}
